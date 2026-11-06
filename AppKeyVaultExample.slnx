@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="APIOne/APIOne.csproj" />
+  <Project Path="APITwo/APITwo.csproj" />
+  <Project Path="PrefixKeyVault/PrefixKeyVault.csproj" />
+</Solution>
